@@ -1,0 +1,9 @@
+Servlet Experiment
+
+1. A Servlet is a Java program that runs on a web server.
+2. It handles client requests and sends responses.
+3. Apache Tomcat can run Java Servlets.
+4. The @WebServlet annotation maps a URL to a Servlet.
+
+Result:
+The basic concept of Java Servlet was studied.
